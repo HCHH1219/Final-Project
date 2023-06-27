@@ -95,7 +95,7 @@ p {
 }
 
 .line {
-    width: 20% auto;
+    width: 50% auto;
     height: 2px;
     background-color: #000000;
 }
