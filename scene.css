@@ -27,11 +27,16 @@ h1 {
 }
 
 .intro {
-    margin-right: 150px;
+    margin-right: auto;
+    
 }
 
 .self {
     background-image: url("images/writing.png");
+    background-size: cover;
+    background-position: middle;
+    height: 200px;
+    width: 300px;
 }
 
 .me {
