@@ -95,7 +95,7 @@ p {
 }
 
 .line {
-    width: 50% auto;
+    width: 20% auto;
     height: 2px;
     background-color: #000000;
 }
@@ -122,4 +122,5 @@ h4 {
     margin-right: auto;
     margin-left: 10px auto;
     background-color: #000000;
+    width: 60% auto
 }
