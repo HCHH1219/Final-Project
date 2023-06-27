@@ -1,0 +1,156 @@
+html {
+    background: #e3e3e3;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 40px;
+    color: #559df0; 
+    border-top: 10px solid #559df0;
+    background: #87c1d3;
+}
+
+.intro {
+    background: no-repeat bottom / cover url('images/intro-bg.jpg');
+    height: 360px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+
+p {
+    line-height: 1.4em;
+}
+
+
+.header-1 {
+    background: #999;
+    Position: sticky;
+    top: 0;
+}
+
+.header-2 {
+    background: #999;
+    Position: sticky;
+    top: 0;
+}
+
+.title {
+    background: #686868;
+}
+
+section {
+    border-top: 5px solid #474747;
+    background: #DFDFDF;
+    display: flex;
+}
+
+.Post-blog-01 {
+    background: #999;
+    border-bottom: 1px dotted #ccc;
+    top: 10;
+    left: 20px;
+    flex: 3
+
+}
+
+article {
+    border-bottom: 1px solid #000;
+}
+
+
+.Post-blog-02 {
+    background: #999;
+    top: 10;
+    left: 20px;
+    flex: 3
+}
+
+
+article {
+    background:#999;
+    padding: 20px;
+    margin: 10px;
+}
+
+form {
+    padding: 10px;
+    margin: 2px;
+    flex: 1
+}
+
+.masthead {
+    background-image: url('Blog-images/Satisfactory.jpg');
+    background-size: cover;
+    background-position: middle;
+    height: 200px;
+    width: 300px;
+}
+
+.img-container01 {
+    background:#000;
+    height: 60px;
+    width: 7px;
+    float: right;
+    margin-left: 10px;
+}
+
+.img-container06 {
+    background:#000;
+    height: 30px;
+    width: 7px;
+    float: right;
+    margin-left: 10px;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 40px;
+    color: #242424; 
+    border-top: 10px solid #242424;
+    background: #fff;
+}
+
+main {
+    background: #ccc;
+    border-top: 5px solid #494949;
+    border-bottom: 3px solid #494949;
+}
+
+.img-container12 {
+    background:#000;
+    height: 20px;
+    width: 5px;
+    float: right;
+    margin-left: 2px;
+}
+
+.img-container13 {
+    background:#000;
+    height: 20px;
+    width: 5px;
+    float: right;
+    margin-left: 2px;
+}
+
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 40px;
+    color: #242424; 
+    border-top: 10px solid #242424;
+    background: #fff;
+}
+
+main {
+    background: #ccc;
+    border-top: 5px solid #494949;
+    border-bottom: 3px solid #494949;
+}
