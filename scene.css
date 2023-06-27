@@ -14,7 +14,7 @@ body {
 .intro {
     background-image: no-repeat bottom / cover url('images/intro-bg.jpg');
     background-size: cover;
-    background-position: left;
+    background-position: center;
 
     height: 360px;
     border-radius: 10px;
@@ -29,8 +29,7 @@ h1 {
 .me {
     writing-mode: vertical-rl;
     transform:rotate(180deg);
-    font-size: 1.6em;
-    bottom: 50px;
+    font-size: 1.3em;
 
 }
 
