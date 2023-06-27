@@ -6,7 +6,7 @@ body {
     font-family:Arial, Helvetica, sans-serif;
     margin: 40px;
     padding: 40px;
-    color: #559df0; 
+    color: #000000; 
     border-top: 10px solid #559df0;
     background: #87c1d3;
 }
@@ -15,14 +15,77 @@ body {
     background-image: no-repeat bottom / cover url('images/intro-bg.jpg');
     background-size: cover;
     background-position: center;
-
+    margin-right: auto;
     height: 360px;
     border-radius: 10px;
     
 }
 
 .about-me {
-    background-color: #87c1d3;
+    background-image: url("images/intro-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #7083a1;
+    display: flex;
+    align-items: center;
+    }
+    
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 40px;
+    color: #000000; 
+    border-top: 10px solid #559df0;
+    background: #559df0;
+}
+    
+
+    
+h1 {
+    font-size: 3em;
+    margin: 0px;
+}
+    
+.self {
+    background-image: url("images/writing.png");
+    background-size: cover;
+    background-position: middle;
+    height: 300px;
+    width: 300px;
+}
+    
+.about-me h2 {
+    writing-mode: vertical-rl;
+    text-transform: uppercase;
+    margin-top: 1rem;
+    margin-bottom: 200px;
+    font-size: 1.3em;
+}
+    
+.about-me p {
+    padding-left: 50px;
+    padding-bottom: 200px;
+}
+    
+.sub-title {
+    font-size: 1.5em;
+    padding-bottom: 25px;
+}
+    
+    
+p {
+    line-height: 1.4em;
+}
+    
+.projects {
+    display: flex;
+}
+    
+.Project-1 {
+    flex: 1;
+    margin: 15px;
+    padding: 15px;
+    border: 3px solid #ddd;
 }
 
 h1 {
@@ -30,26 +93,26 @@ h1 {
     margin: 0px;
 }
 
-.intro {
-    margin-right: auto;
-    
-}
-
 .self {
     background-image: url("images/writing.png");
     background-size: cover;
     background-position: middle;
-    height: 200px;
+    height: 300px;
     width: 300px;
 }
 
-.me {
+.about-me h2 {
     writing-mode: vertical-rl;
     text-transform: uppercase;
     margin-top: 1rem;
     margin-right: 1rem;
     font-size: 1.3em;
 
+}
+
+.about-me p {
+    padding-left: 50px;
+    padding-bottom: 200px;
 }
 
 .sub-title {
@@ -62,122 +125,13 @@ p {
     line-height: 1.4em;
 }
 
-
-.header-1 {
-    background: #999;
-    Position: sticky;
-    top: 0;
-}
-
-.header-2 {
-    background: #999;
-    Position: sticky;
-    top: 0;
-}
-
-.title {
-    background: #686868;
-}
-
-section {
-    border-top: 5px solid #474747;
-    background: #DFDFDF;
+.projects {
     display: flex;
 }
 
-.Post-blog-01 {
-    background: #999;
-    border-bottom: 1px dotted #ccc;
-    top: 10;
-    left: 20px;
-    flex: 3
-
-}
-
-article {
-    border-bottom: 1px solid #000;
-}
-
-
-.Post-blog-02 {
-    background: #999;
-    top: 10;
-    left: 20px;
-    flex: 3
-}
-
-
-article {
-    background:#999;
-    padding: 20px;
-    margin: 10px;
-}
-
-form {
-    padding: 10px;
-    margin: 2px;
-    flex: 1
-}
-
-.img-container01 {
-    background:#000;
-    height: 60px;
-    width: 7px;
-    float: right;
-    margin-left: 10px;
-}
-
-.img-container06 {
-    background:#000;
-    height: 30px;
-    width: 7px;
-    float: right;
-    margin-left: 10px;
-}
-
-body {
-    font-family:Arial, Helvetica, sans-serif;
-    margin: 40px;
-    padding: 40px;
-    color: #242424; 
-    border-top: 10px solid #242424;
-    background: #fff;
-}
-
-main {
-    background: #ccc;
-    border-top: 5px solid #494949;
-    border-bottom: 3px solid #494949;
-}
-
-.img-container12 {
-    background:#000;
-    height: 20px;
-    width: 5px;
-    float: right;
-    margin-left: 2px;
-}
-
-.img-container13 {
-    background:#000;
-    height: 20px;
-    width: 5px;
-    float: right;
-    margin-left: 2px;
-}
-
-
-body {
-    font-family:Arial, Helvetica, sans-serif;
-    margin: 40px;
-    padding: 40px;
-    color: #242424; 
-    border-top: 10px solid #242424;
-    background: #fff;
-}
-
-main {
-    background: #ccc;
-    border-top: 5px solid #494949;
-    border-bottom: 3px solid #494949;
+.Project-1 {
+    flex: 1;
+    margin: 15px;
+    padding: 15px;
+    border: 3px solid #ddd;
 }
