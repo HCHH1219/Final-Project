@@ -23,13 +23,18 @@ body {
 
 h1 {
     font-size: 3em;
-    margin: 0;
+    margin: 0px;
+}
+
+.intro {
+    margin-right: 20px;
 }
 
 .me {
     writing-mode: vertical-rl;
     text-transform: uppercase;
-    margin-right: 2rem;
+    margin-top: 1rem;
+    margin-right: 1rem;
     font-size: 1.3em;
 
 }
