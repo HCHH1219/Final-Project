@@ -127,8 +127,16 @@ h4 {
 
 .image-1 {
     background-image: url("images/GH.png");
+    background-size: cover;
+    background-position: middle;
+    height: 200x;
+    width: 200px;
 }
 
 .image-2 {
     background-image: url("images/CS.png");
+    background-size: cover;
+    background-position: middle;
+    height: 200x;
+    width: 200px;
 }
