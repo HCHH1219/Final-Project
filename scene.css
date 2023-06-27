@@ -29,7 +29,7 @@ h1 {
 .me {
     writing-mode: vertical-rl;
     transform:rotate(180deg);
-    font-size: 2em;
+    font-size: 1.6em;
     bottom: 50px;
 
 }
