@@ -29,11 +29,12 @@ h1 {
 h2 {
     writing-mode: vertical-rl;
     transform:rotate(180deg);
+    font-size: 2em;
 
 }
 
 .sub-title {
-    font-size: 2em;
+    font-size: 1em;
     padding-bottom: 25px;
 }
 
