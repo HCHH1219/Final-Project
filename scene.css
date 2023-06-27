@@ -30,6 +30,10 @@ h1 {
     margin-right: 150px;
 }
 
+.self {
+    background-image: url("images/writing.png");
+}
+
 .me {
     writing-mode: vertical-rl;
     text-transform: uppercase;
