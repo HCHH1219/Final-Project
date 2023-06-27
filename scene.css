@@ -16,8 +16,7 @@ body {
     background-size: cover;
     background-position: center;
     margin-right: auto;
-    height: 360px;
-    border-radius: 10px;
+    margin-bottom: 200px;
     
 }
 
@@ -26,24 +25,39 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #7083a1;
+    margin-right: 40%;
+    margin-left: 5%;
     display: flex;
     align-items: center;
+    border-radius: 10px;
     }
+
+.about-me p {
+    font-size: 1.4em;
+    text-align: left;
+    padding-top: 150px;
+    padding-left: 30px;
+    padding-bottom: 200px;
+    
+}
     
 body {
     font-family:Arial, Helvetica, sans-serif;
     margin: 40px;
     padding: 40px;
     color: #000000; 
-    border-top: 10px solid #559df0;
+    border-top: 10px solid #447dbe;
     background: #559df0;
 }
     
 
     
 h1 {
-    font-size: 3em;
-    margin: 0px;
+    font-size: 4em;
+    border: 3px solid #000000;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #447dbe;
 }
     
 .self {
@@ -58,80 +72,54 @@ h1 {
     writing-mode: vertical-rl;
     text-transform: uppercase;
     margin-top: 1rem;
-    margin-bottom: 200px;
-    font-size: 1.3em;
+    margin-bottom: 100px;
+    margin-right: 5px;
+    font-size: 1.6em;
 }
     
-.about-me p {
-    padding-left: 50px;
-    padding-bottom: 200px;
-}
     
 .sub-title {
-    font-size: 1.5em;
+    font-size: 2em;
     padding-bottom: 25px;
+    text-align: center;
 }
     
     
 p {
     line-height: 1.4em;
 }
+
+.sec-title {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.line {
+    width: 20% auto;
+    height: 2px;
+    background-color: #000000;
+}
+
     
 .projects {
+    margin-top: 30px;
     display: flex;
 }
     
 .Project-1 {
     flex: 1;
-    margin: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
     padding: 15px;
     border: 3px solid #ddd;
 }
 
-h1 {
-    font-size: 3em;
-    margin: 0px;
+h4 {
+    text-align: right;
 }
 
-.self {
-    background-image: url("images/writing.png");
-    background-size: cover;
-    background-position: middle;
-    height: 300px;
-    width: 300px;
-}
-
-.about-me h2 {
-    writing-mode: vertical-rl;
-    text-transform: uppercase;
-    margin-top: 1rem;
-    margin-right: 1rem;
-    font-size: 1.3em;
-
-}
-
-.about-me p {
-    padding-left: 50px;
-    padding-bottom: 200px;
-}
-
-.sub-title {
-    font-size: 1.5em;
-    padding-bottom: 25px;
-}
-
-
-p {
-    line-height: 1.4em;
-}
-
-.projects {
-    display: flex;
-}
-
-.Project-1 {
-    flex: 1;
-    margin: 15px;
-    padding: 15px;
-    border: 3px solid #ddd;
+.link {
+    margin-right: auto;
+    margin-left: 10px auto;
+    background-color: #000000;
 }
