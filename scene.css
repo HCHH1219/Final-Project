@@ -27,9 +27,10 @@ h1 {
 }
 
 .me {
-    transform:rotate(-90deg);
+    writing-mode: vertical-rl;
+    text-transform: uppercase;
+    margin-right: 2rem;
     font-size: 1.3em;
-    padding-bottom: 55px;
 
 }
 
