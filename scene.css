@@ -27,7 +27,7 @@ h1 {
 }
 
 h2 {
-    writing-mode: vertical-lr;
+    writing-mode: vertical-rl;
     text-orientation: mixed;
 }
 
