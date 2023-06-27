@@ -1,5 +1,5 @@
 html {
-    background: #e3e3e3;
+    background-color: #7083a1;
 }
 
 body {
@@ -19,6 +19,10 @@ body {
     height: 360px;
     border-radius: 10px;
     
+}
+
+.about-me {
+    background-color: #87c1d3;
 }
 
 h1 {
