@@ -12,9 +12,13 @@ body {
 }
 
 .intro {
-    background: no-repeat bottom / cover url('images/intro-bg.jpg');
+    background-image: no-repeat bottom / cover url('images/intro-bg.jpg');
+    background-size: cover;
+    background-position: left;
+
     height: 360px;
     border-radius: 10px;
+    
 }
 
 h1 {
