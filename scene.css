@@ -27,8 +27,7 @@ h1 {
 }
 
 .me {
-    writing-mode: vertical-rl;
-    transform:rotate(180deg);
+    transform:rotate(90deg);
     font-size: 1.3em;
     padding-bottom: 55px;
 
