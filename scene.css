@@ -26,7 +26,7 @@ h1 {
     margin: 0;
 }
 
-h2 {
+.me {
     writing-mode: vertical-rl;
     transform:rotate(180deg);
     font-size: 2em;
