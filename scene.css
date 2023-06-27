@@ -27,7 +27,7 @@ h1 {
 }
 
 .me {
-    transform:rotate(90deg);
+    transform:rotate(-90deg);
     font-size: 1.3em;
     padding-bottom: 55px;
 
