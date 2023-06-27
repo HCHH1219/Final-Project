@@ -119,14 +119,6 @@ form {
     flex: 1
 }
 
-.masthead {
-    background-image: url('Blog-images/Satisfactory.jpg');
-    background-size: cover;
-    background-position: middle;
-    height: 200px;
-    width: 300px;
-}
-
 .img-container01 {
     background:#000;
     height: 60px;
