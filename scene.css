@@ -26,6 +26,11 @@ h1 {
     margin: 0;
 }
 
+h2 {
+    writing-mode: vertical-lr;
+    text-orientation: mixed;
+}
+
 
 p {
     line-height: 1.4em;
