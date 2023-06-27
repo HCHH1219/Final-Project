@@ -115,14 +115,18 @@ p {
     background-color: #7aafeb;
 }
 
+.Project-1 p {
+    text-align: center;
+}
+
 h4 {
-    text-align: right;
+    text-align: center;
 }
 
 .link {
-    text-align: right;
+    text-align: center;
     margin-right: auto;
-    margin-left: 10px auto;
+    margin-left: auto;
 }
 
 .image-1 {
