@@ -21,7 +21,6 @@ header p {
 }
 
 .intro {
-    background: url('images/intro-bg.jpg') no-repeat bottom/cover;
     margin-right: auto;
     margin-bottom: 200px;
 }
@@ -102,7 +101,6 @@ p {
 }
 
 .line {
-    width: 20%;
     height: 2px;
     background-color: #ffffff;
 }
