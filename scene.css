@@ -67,6 +67,8 @@ h1 {
     background-position: middle;
     height: 300px;
     width: 300px;
+    margin-left: auto;
+    margin-right: auto;
     transform: translate(100%,100%);
 }
     
