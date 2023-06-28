@@ -35,8 +35,8 @@ header p {
     background-size: cover;
     background-color: #7083a1;
     color:#000000;
-    margin-right: 5%;
-    margin-left: 5%;
+    margin-right: 8%;
+    margin-left: 8%;
     display: flex;
     align-items: center;
     border-radius: 10px;
@@ -47,6 +47,7 @@ header p {
     text-align: left;
     padding-top: 150px;
     padding-left: 30px;
+    padding-right: 30px;
     padding-bottom: 200px;
     line-height: 2em;
     
