@@ -147,7 +147,7 @@ h4 {
 }
 
 .image-1 {
-    background-image: url("images/3D.png");
+    background-image: url("images/3D.png" alt="3D-Model-thumbnail");
     background-size:auto;
     background-position: middle;
     background-repeat: no-repeat;
