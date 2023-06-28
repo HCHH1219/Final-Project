@@ -1,15 +1,18 @@
 html {
-    background-color: #7083a1;
+    background-color: #f8f2e8;
 }
 
 body {
     font-family:Arial, Helvetica, sans-serif;
     margin: 40px;
-    padding: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
     color: #000000; 
-    border-left: 10px solid #559df0;
-    border-right: 10px solid #559df0;
-    background: #87c1d3;
+    border-top: 30px solid #447dbe;
+    border-left: 10px solid #f8f2e8;
+    border-right: 10px solid #f8f2e8;
+    border-bottom: 30px solid #447dbe;
+    background: #5688c2;
 }
 
 header p {
@@ -46,16 +49,6 @@ header p {
     line-height: 2em;
     
 }
-    
-body {
-    font-family:Arial, Helvetica, sans-serif;
-    margin: 40px;
-    padding: 40px;
-    color: #000000; 
-    border-top: 10px solid #447dbe;
-    background: #559df0;
-}
-    
 
     
 h1 {
@@ -64,6 +57,9 @@ h1 {
     border-radius: 10px;
     text-align: center;
     background-color: #447dbe;
+    padding:20px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 .image-text {
@@ -93,7 +89,7 @@ img {
 }
     
     
-.sub-title {
+header p {
     font-size: 2em;
     padding-bottom: 25px;
     text-align: center;
