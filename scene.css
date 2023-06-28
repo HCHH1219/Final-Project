@@ -12,7 +12,7 @@ body {
 }
 
 .intro {
-    display: flex;
+
     background-image: no-repeat bottom / cover url('images/intro-bg.jpg');
     background-size: cover;
     background-position: center;
@@ -22,14 +22,14 @@ body {
 }
 
 .about-me {
-    flex:2;
-    display: flex;
+
     background-image: url("images/intro-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #7083a1;
-    margin-right: 1%;
+    margin-right: 2%;
     margin-left: 5%;
+    display: flex;
     align-items: center;
     border-radius: 10px;
     }
