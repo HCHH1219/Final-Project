@@ -131,7 +131,7 @@ h4 {
 
 .image-1 {
     background-image: url("images/GH.png");
-    background-size: cover;
+    background-size: contain;
     background-position: middle;
     height: 200px;
     width: 200px;
@@ -139,7 +139,7 @@ h4 {
 
 .image-2 {
     background-image: url("images/CS.png");
-    background-size: cover;
+    background-size:contain;
     background-position: middle;
     height: 200px;
     width: 200px;
