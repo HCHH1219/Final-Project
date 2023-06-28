@@ -23,12 +23,11 @@ body {
 
 .about-me {
     flex:2;
-    flex:1;
     background-image: url("images/intro-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #7083a1;
-    margin-right: 2%;
+    margin-right: 1%;
     margin-left: 5%;
     align-items: center;
     border-radius: 10px;
