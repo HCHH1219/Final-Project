@@ -169,3 +169,11 @@ iframe {
     border-radius: 10px;
     transform:translate(12%, 0%);
 }
+
+.container {
+    display:flex
+}
+
+.info-1 {
+    flex:1;
+}
