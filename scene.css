@@ -34,7 +34,6 @@ header p {
     display: flex;
     align-items: center;
     border-radius: 10px;
-    border: 6px solid #5f7fbb;
     }
 
 .about-me p {
@@ -74,7 +73,7 @@ h1 {
     margin-right: 35%;
     border-bottom-left-radius: 16px;
     border-bottom-right-radius: 16px;
-    border: 4px solid #5f7fbb;
+    border: 4px solid #ffffff;
 }
 
 img {
