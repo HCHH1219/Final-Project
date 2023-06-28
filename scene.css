@@ -66,7 +66,11 @@ h1 {
     text-align: center;
     background-color: #447dbe;
 }
-    
+
+.image-text {
+    background-color: #447dbe;
+}
+
 img {
     width: 100px;
     height: 100px;
