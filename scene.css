@@ -82,7 +82,7 @@ h1 {
 img {
     width: 100px;
     height: 100px;
-    transform: matrix(2px,2px);
+    transform: matrix(0px,0px);
 }
     
 .about-me h2 {
