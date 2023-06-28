@@ -133,6 +133,7 @@ h4 {
     background-image: url("images/GH.png");
     background-size: contain;
     background-position: middle;
+    background-repeat: no-repeat;
     height: 150px;
     width: 220px;
 }
@@ -141,6 +142,7 @@ h4 {
     background-image: url("images/CS.png");
     background-size:contain;
     background-position: middle;
-    height: 200px;
-    width: 200px;
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 220px;
 }
