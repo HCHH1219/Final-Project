@@ -67,7 +67,10 @@ h1 {
     background-color: #447dbe;
 }
     
-
+img {
+    width: 100px;
+    height: 100px;
+}
     
 .about-me h2 {
     writing-mode: vertical-rl;
