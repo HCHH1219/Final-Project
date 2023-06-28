@@ -67,7 +67,7 @@ h1 {
     background-position: middle;
     height: 300px;
     width: 300px;
-    transform: translate(50%,50%);
+    transform: translate(100%,100%);
 }
     
 .about-me h2 {
