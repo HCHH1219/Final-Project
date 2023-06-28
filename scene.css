@@ -12,7 +12,6 @@ body {
 }
 
 .intro {
-    display: flex;
     background-image: no-repeat bottom / cover url('images/intro-bg.jpg');
     background-size: cover;
     background-position: center;
@@ -63,12 +62,12 @@ h1 {
 }
     
 .self {
-    flex: 1;
     background-image: url("images/writing.png");
     background-size: cover;
     background-position: middle;
     height: 300px;
     width: 300px;
+    transform: translate(5%,5%);
 }
     
 .about-me h2 {
