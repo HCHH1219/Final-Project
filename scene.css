@@ -34,6 +34,7 @@ header p {
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #7083a1;
+    color:#000000;
     margin-right: 2%;
     margin-left: 5%;
     display: flex;
@@ -54,8 +55,8 @@ header p {
     
 h1 {
     font-size: 4em;
-    border: 3px solid #000000;
-    border-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
     text-align: center;
     background-color: #447dbe;
     padding:10px;
