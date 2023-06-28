@@ -143,19 +143,6 @@ h4 {
     border-radius: 10px;
 }
 
-.image-2 {
-    background-image: url("images/CS.png");
-    background-size:auto;
-    background-position: middle;
-    background-repeat: no-repeat;
-    height: 150px;
-    width: 240px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%;
-    border-radius: 10px;
-}
-
 iframe {
     margin-left: auto;
     margin-right: auto;
