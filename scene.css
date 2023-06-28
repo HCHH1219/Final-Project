@@ -14,6 +14,7 @@ body {
     border-right: 10px solid #f8f2e800;
     border-bottom: 30px solid #3f94bb;
     background: #5688c269;
+    box-shadow: 3px 3px 8px #000000e8;
 }
 
 header p {
