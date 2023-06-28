@@ -11,6 +11,10 @@ body {
     background: #87c1d3;
 }
 
+header p {
+    position: sticky;
+}
+
 .intro {
 
     background-image: no-repeat bottom / cover url('images/intro-bg.jpg');
