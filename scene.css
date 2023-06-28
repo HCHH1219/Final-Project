@@ -1,14 +1,13 @@
 html {
     background-color: #f8f2e8;
-    background-image:url("images/BG.jpg");
+    background-image: url("images/BG.jpg");
 }
 
 body {
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 40px;
-    padding-left: 40px;
-    padding-right: 40px;
-    color: #e9e9e9; 
+    padding: 0 40px;
+    color: #e9e9e9;
     border-top: 30px solid #3f94bb;
     border-left: 10px solid #f8f2e800;
     border-right: 10px solid #f8f2e800;
@@ -22,12 +21,9 @@ header p {
 }
 
 .intro {
-    background-image: no-repeat bottom / cover url('images/intro-bg.jpg');
-    background-size: cover;
-    background-position: center;
+    background: url('images/intro-bg.jpg') no-repeat bottom/cover;
     margin-right: auto;
     margin-bottom: 200px;
-    
 }
 
 .about-me {
@@ -35,42 +31,37 @@ header p {
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #7083a1;
-    color:#000000;
+    color: #000000;
     margin-right: 8%;
     margin-left: 8%;
     display: flex;
     align-items: center;
     border-radius: 10px;
     box-shadow: 5px 5px 10px #000000;
-    }
+}
 
 .about-me p {
     font-size: 1.4em;
     text-align: left;
-    padding-top: 150px;
-    padding-left: 30px;
-    padding-right: 30px;
-    padding-bottom: 200px;
+    padding: 150px 30px 200px;
     line-height: 2em;
-    
 }
 
-    
 h1 {
     font-size: 4em;
     border-bottom-left-radius: 30px;
     border-bottom-right-radius: 30px;
     text-align: center;
     background-color: #3f94bb;
-    padding:10px;
+    padding: 10px;
     margin-left: 200px;
     margin-right: 200px;
 }
 
 .image-text {
     background-color: #fffd99;
-    color:#000000;
-    text-align:center;
+    color: #000000;
+    text-align: center;
     padding-bottom: 2%;
     margin-left: 35%;
     margin-right: 35%;
@@ -85,7 +76,7 @@ img {
     height: 100px;
     margin-right: 5%;
 }
-    
+
 .about-me h2 {
     writing-mode: vertical-rl;
     text-transform: uppercase;
@@ -94,15 +85,13 @@ img {
     margin-right: 5px;
     font-size: 1.6em;
 }
-    
-    
+
 header p {
     font-size: 2em;
     padding-bottom: 25px;
     text-align: center;
 }
-    
-    
+
 p {
     line-height: 1.4em;
 }
@@ -113,17 +102,16 @@ p {
 }
 
 .line {
-    width: 20% auto;
+    width: 20%;
     height: 2px;
     background-color: #ffffff;
 }
 
-    
 .projects {
     margin-top: 30px;
     display: flex;
 }
-    
+
 .Project-1 {
     flex: 1;
     margin: 10px;
@@ -146,12 +134,12 @@ h4 {
     margin-right: 30%;
     margin-left: 30%;
     background-color: #81a6b8;
-    border: 2px solid #ddd
+    border: 2px solid #ddd;
 }
 
 .image-1 {
     background-image: url("images/3D.png");
-    background-size:auto;
+    background-size: auto;
     background-position: middle;
     background-repeat: no-repeat;
     height: 150px;
@@ -167,25 +155,25 @@ iframe {
     margin-right: auto;
     width: 80%;
     border-radius: 10px;
-    transform:translate(12%, 0%);
+    transform: translate(12%, 0%);
 }
 
 section {
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     margin-left: 20%;
     margin-right: 20%;
-    color: #e9e9e9; 
+    color: #e9e9e9;
     background: #5688c269;
     box-shadow: 3px 3px 8px #000000e8;
     border-radius: 20px;
 }
 
 .container {
-    display:flex
+    display: flex;
 }
 
 .info {
-    flex:1;
+    flex: 1;
     padding-left: 15%;
 }
 
