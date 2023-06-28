@@ -23,6 +23,7 @@ body {
 
 .about-me {
     flex:2;
+    display: flex;
     background-image: url("images/intro-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
