@@ -16,7 +16,6 @@ header p {
 }
 
 .intro {
-
     background-image: no-repeat bottom / cover url('images/intro-bg.jpg');
     background-size: cover;
     background-position: center;
@@ -26,7 +25,6 @@ header p {
 }
 
 .about-me {
-
     background-image: url("images/intro-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -69,6 +67,12 @@ h1 {
 
 .image-text {
     background-color: #cacaca;
+    text-align:center;
+    padding-bottom: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
 img {
