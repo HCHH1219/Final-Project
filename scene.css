@@ -12,6 +12,7 @@ body {
 }
 
 .intro {
+    display: flex;
     background-image: no-repeat bottom / cover url('images/intro-bg.jpg');
     background-size: cover;
     background-position: center;
@@ -21,7 +22,6 @@ body {
 }
 
 .about-me {
-    background-image: url("images/intro-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #7083a1;
@@ -31,6 +31,12 @@ body {
     align-items: center;
     border-radius: 10px;
     }
+
+.about-me-image {
+
+    background-image: url("images/intro-bg.jpg");
+    flex: 1;
+}
 
 .about-me p {
     font-size: 1.4em;
