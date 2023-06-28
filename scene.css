@@ -8,7 +8,7 @@ body {
     margin: 40px;
     padding-left: 40px;
     padding-right: 40px;
-    color: #000000; 
+    color: #e9e9e9; 
     border-top: 30px solid #447dbe;
     border-left: 10px solid #f8f2e800;
     border-right: 10px solid #f8f2e800;
@@ -109,7 +109,7 @@ p {
 .line {
     width: 20% auto;
     height: 2px;
-    background-color: #000000;
+    background-color: #ffffff;
 }
 
     
